@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding-top: 100px;
+  background-color: darkgray;
+}
+
+.jumbotron {
+  margin-top: 20px;
+}
+
+.grid {
+  margin: 0 auto;
+}
+
+.grid-item {
+  margin-bottom: 10px;
+}
